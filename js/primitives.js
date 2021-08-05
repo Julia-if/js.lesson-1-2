@@ -41,6 +41,7 @@ let message;
 console.log(message);
 console.log(typeof message);
 
+//null
 let user = null;
 console.log(user);
 console.log(typeof user);
